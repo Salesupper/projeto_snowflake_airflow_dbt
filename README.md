@@ -209,8 +209,3 @@ Se você chegou até aqui, parabéns! Já tens um projeto de exemplo para orques
 
 - [Snowflake Guide: Data Engineering with Apache Airflow](https://quickstarts.snowflake.com/guide/data_engineering_with_apache_airflow/index.html)
 
-
-## Developer
-| Desenvolvedor      | LinkedIn                                   | Email                        | Portfólio                              |
-|--------------------|--------------------------------------------|------------------------------|----------------------------------------|
-| Wallace Camargo    | [LinkedIn](https://www.linkedin.com/in/wallace-camargo-35b615171/) | wallacecpdg@gmail.com        | [Portfólio](https://wlcamargo.github.io/)   |
